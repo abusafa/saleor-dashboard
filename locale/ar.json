@@ -7,13 +7,13 @@
     "string": "تحديد الأدوات المستخدمة لإنشاء أصناف المنتجات"
   },
   "configurationMenuChannels": {
-    "string": "Define and manage your sales channels"
+    "string": "تحديد وإدارة قنوات البيع الخاصة بك"
   },
   "configurationMenuNavigation": {
     "string": "حدد كيف يمكن للمستخدمين التنقل عبر متجرك"
   },
   "configurationMenuPageTypes": {
-    "string": "Define types of content pages used in your store"
+    "string": "حدد أنواع صفحات المحتوى المستخدمة في متجرك"
   },
   "configurationMenuPages": {
     "string": "إدارة و إضافة صفحات إضافية"
@@ -213,10 +213,10 @@
   },
   "pageTypeCreateHeader": {
     "context": "window title",
-    "string": "Create Page Type"
+    "string": "إنشاء نوع الصفحة"
   },
   "pageTypeInputLabel": {
-    "string": "Select content type"
+    "string": "حدد نوع المحتوى"
   },
   "productExportFieldCategory": {
     "context": "product field",
@@ -1163,35 +1163,35 @@
   },
   "src_dot_channels": {
     "context": "channels section name",
-    "string": "Channels"
+    "string": "القنوات"
   },
   "src_dot_channels_dot_components_dot_ChannelDeleteDialog_dot_2257704694": {
-    "context": "delete channel",
+    "context": "حذف القناة",
     "string": "All order information from this channel need to be moved to a different channel. Please select channel orders need to be moved to:."
   },
   "src_dot_channels_dot_components_dot_ChannelDeleteDialog_dot_2342703674": {
     "context": "dialog header",
-    "string": "Select Channel"
+    "string": "اختر قناة"
   },
   "src_dot_channels_dot_components_dot_ChannelDeleteDialog_dot_2405647976": {
     "context": "dialog header",
-    "string": "Delete Channel"
+    "string": "حذف القناة"
   },
   "src_dot_channels_dot_components_dot_ChannelDeleteDialog_dot_777038435": {
     "context": "delete channel",
-    "string": "Deleting channel will delete all product data regarding this channel. Are you sure you want to delete this channel?"
+    "string": "سيؤدي حذف القناة إلى حذف جميع بيانات المنتج المتعلقة بهذه القناة. هل أنت متأكد أنك تريد حذف هذه القناة؟"
   },
   "src_dot_channels_dot_components_dot_ChannelDeleteDialog_dot_863901": {
     "context": "currency channel",
-    "string": "There is no available channel to move order information to. Please create a channel with same currency so that information can be moved to it."
+    "string": "لا توجد قناة متاحة لنقل معلومات الطلب إليها. يرجى إنشاء قناة بنفس العملة حتى يمكن نقل المعلومات إليها."
   },
   "src_dot_channels_dot_components_dot_ChannelForm_dot_1223259680": {
     "context": "channel settings",
-    "string": "Channel Settings"
+    "string": "اعدادات القناة"
   },
   "src_dot_channels_dot_components_dot_ChannelForm_dot_1843613796": {
     "context": "selected currency",
-    "string": "Selected Currency"
+    "string": "العملة المختارة"
   },
   "src_dot_channels_dot_components_dot_ChannelForm_dot_2864204643": {
     "context": "button",
@@ -1199,27 +1199,27 @@
   },
   "src_dot_channels_dot_components_dot_ChannelForm_dot_3478065224": {
     "context": "channel slug",
-    "string": "Slug"
+    "string": "القالب"
   },
   "src_dot_channels_dot_components_dot_ChannelForm_dot_3511613983": {
     "context": "channel name",
-    "string": "Channel Name"
+    "string": "اسم القناة"
   },
   "src_dot_channels_dot_components_dot_ChannelForm_dot_383867403": {
     "context": "button",
-    "string": "Copy"
+    "string": "نسخ"
   },
   "src_dot_channels_dot_components_dot_ChannelForm_dot_3873626327": {
     "context": "channel currency",
-    "string": "Currency"
+    "string": "العملة"
   },
   "src_dot_channels_dot_components_dot_ChannelPickerDialog_dot_2423186459": {
     "context": "dialog header",
-    "string": "Select a channel"
+    "string": "حدد قناة"
   },
   "src_dot_channels_dot_components_dot_ChannelPickerDialog_dot_507892781": {
     "context": "select label",
-    "string": "Channel name"
+    "string": "اسم القناة"
   },
   "src_dot_channels_dot_components_dot_ChannelStatus_dot_1004218338": {
     "context": "inactive",
@@ -1247,7 +1247,7 @@
   },
   "src_dot_channels_dot_pages_dot_ChannelsListPage_dot_3511613983": {
     "context": "channel name",
-    "string": "Channel Name"
+    "string": "اسم القناة"
   },
   "src_dot_channels_dot_pages_dot_ChannelsListPage_dot_4097816011": {
     "string": "No channels found"
@@ -1258,7 +1258,7 @@
   },
   "src_dot_channels_dot_pages_dot_ChannelsListPage_dot_4224047662": {
     "context": "button",
-    "string": "Create Channel"
+    "string": "إنشاء قناة"
   },
   "src_dot_channels_dot_views_dot_ChannelCreate_dot_2071399707": {
     "context": "currency code select",
@@ -1270,7 +1270,7 @@
   },
   "src_dot_channels_dot_views_dot_ChannelCreate_dot_4224047662": {
     "context": "window title",
-    "string": "Create Channel"
+    "string": "إنشاء قناة"
   },
   "src_dot_channels_dot_views_dot_ChannelDetails_dot_1742743610": {
     "context": "window title",
@@ -1677,7 +1677,7 @@
   },
   "src_dot_components_dot_ColumnPicker_dot_2715399461": {
     "context": "pick columns to display",
-    "string": "تم تحديد {numberOfTotal} عمودًا من {numberOfSelected}"
+    "string": "تم تحديد  {numberOfSelected}  حقلاً من {numberOfTotal} "
   },
   "src_dot_components_dot_CompanyAddressInput_dot_1139500589": {
     "string": "البلد"
@@ -1801,19 +1801,19 @@
   },
   "src_dot_components_dot_Metadata_dot_1509432322": {
     "context": "header",
-    "string": "البيانات الوصفية"
+    "string": "بيانات وصفية"
   },
   "src_dot_components_dot_Metadata_dot_1535223586": {
     "context": "header",
-    "string": "البيانات الوصفية الخاصة"
+    "string": "بيانات وصفية خاصة"
   },
   "src_dot_components_dot_Metadata_dot_2024779015": {
     "context": "empty metadata text",
-    "string": "لا توجد بيانات وصفية خاصة تم إنشاؤها ."
+    "string": "لا توجد بيانات وصفية."
   },
   "src_dot_components_dot_Metadata_dot_2087058956": {
     "context": "empty metadata text",
-    "string": "لا توجد بيانات وصفية تم إنشاؤها ."
+    "string": "لا توجد بيانات وصفية."
   },
   "src_dot_components_dot_Metadata_dot_2537046678": {
     "context": "metadata field name, header",
@@ -2154,7 +2154,7 @@
     "string": "إعدادات المنتج"
   },
   "src_dot_configuration_dot_887806978": {
-    "string": "Multichannel"
+    "string": "متعدد القنوات"
   },
   "src_dot_confirm": {
     "context": "button",
@@ -2610,7 +2610,7 @@
   },
   "src_dot_discounts_dot_components_dot_SaleValue_dot_507892781": {
     "context": "column title",
-    "string": "Channel name"
+    "string": "اسم القناة"
   },
   "src_dot_discounts_dot_components_dot_VoucherCreatePage_dot_1357216572": {
     "context": "page header",
@@ -2765,7 +2765,7 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_507892781": {
     "context": "column title",
-    "string": "Channel name"
+    "string": "اسم القناة"
   },
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_653777456": {
     "context": "voucher requirement",
@@ -2836,7 +2836,7 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_507892781": {
     "context": "column title",
-    "string": "Channel name"
+    "string": "اسم القناة"
   },
   "src_dot_discounts_dot_order": {
     "context": "voucher discount",
@@ -3047,7 +3047,7 @@
   },
   "src_dot_orders_dot_components_dot_DraftOrderChannelSectionCard_dot_1243773440": {
     "context": "section header",
-    "string": "Sales channel"
+    "string": "قنوات البيع"
   },
   "src_dot_orders_dot_components_dot_OrderAddressEditDialog_dot_3278396777": {
     "context": "dialog header",
@@ -3076,7 +3076,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderChannelSectionCard_dot_1243773440": {
     "context": "section header",
-    "string": "Sales channel"
+    "string": "قنوات البيع"
   },
   "src_dot_orders_dot_components_dot_OrderCustomerNote_dot_1505053535": {
     "string": "لا توجد ملاحظات من العميل"
@@ -3986,7 +3986,7 @@
   },
   "src_dot_pageTypes_dot_components_dot_PageTypeAttributes_dot_3478065224": {
     "context": "attribute internal name",
-    "string": "Slug"
+    "string": "قالب"
   },
   "src_dot_pageTypes_dot_components_dot_PageTypeAttributes_dot_613275198": {
     "context": "section header",
@@ -4499,7 +4499,7 @@
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeListPage_dot_configurable": {
     "context": "product type",
-    "string": "شكلي"
+    "string": "قابل للتعديل"
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeListPage_dot_digital": {
     "context": "product",
@@ -4534,7 +4534,7 @@
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeList_dot_2754779425": {
     "context": "product type",
-    "string": "شكلي"
+    "string": "قابل للتعديل"
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeList_dot_881286562": {
     "context": "product type",
@@ -4805,7 +4805,7 @@
   },
   "src_dot_products_dot_components_dot_ProductList_dot_2754779425": {
     "context": "product type",
-    "string": "شكلي"
+    "string": "قابل للتعديل"
   },
   "src_dot_products_dot_components_dot_ProductList_dot_3326160357": {
     "context": "product channels",
@@ -4831,7 +4831,7 @@
   },
   "src_dot_products_dot_components_dot_ProductOrganization_dot_2754779425": {
     "context": "product is configurable",
-    "string": "شكلي"
+    "string": "قابل للتعديل"
   },
   "src_dot_products_dot_components_dot_ProductOrganization_dot_2805838453": {
     "context": "field is optional",
@@ -5078,7 +5078,7 @@
   },
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_3511613983": {
     "context": "tabel column header",
-    "string": "Channel Name"
+    "string": "اسم القناة"
   },
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_4097816011": {
     "string": "No channels found"
@@ -5306,7 +5306,7 @@
   },
   "src_dot_shipping_dot_components_dot_OrderValue_dot_507892781": {
     "context": "channel name",
-    "string": "Channel name"
+    "string": "اسم القناة"
   },
   "src_dot_shipping_dot_components_dot_OrderValue_dot_58751738": {
     "string": "Max Value"
@@ -5351,7 +5351,7 @@
   },
   "src_dot_shipping_dot_components_dot_PricingCard_dot_507892781": {
     "context": "column title",
-    "string": "Channel name"
+    "string": "اسم القناة"
   },
   "src_dot_shipping_dot_components_dot_ShippingMethodProductsAddDialog_dot_2850255786": {
     "string": "Search Products"
@@ -6101,7 +6101,7 @@
     "string": "الفئات"
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_3731925413": {
-    "string": "Shipping methods"
+    "string": "وسائل الشحن"
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_4153345096": {
     "string": "سمات"
@@ -6216,7 +6216,7 @@
   },
   "src_dot_unfulfilled": {
     "context": "order status",
-    "string": "غير مستوفى"
+    "string": "غير منجزة"
   },
   "src_dot_unpaid": {
     "context": "payment status",
@@ -6224,7 +6224,7 @@
   },
   "src_dot_uploadImage": {
     "context": "button",
-    "string": "رفع الصور"
+    "string": "ارفع صورة"
   },
   "src_dot_utils_dot_errors_dot_alreadyExists": {
     "context": "add authorization key error",
@@ -6284,7 +6284,7 @@
     "string": "Currency in both channels must be the same"
   },
   "src_dot_utils_dot_errors_dot_channelUnique": {
-    "string": "Slug must be unique"
+    "string": "لا يجب للقالب أن يتكرر"
   },
   "src_dot_utils_dot_errors_dot_duplicated": {
     "string": "The same object cannot be in both lists"
@@ -6387,7 +6387,7 @@
   },
   "src_dot_utils_dot_errors_dot_slugUnique": {
     "context": "error message",
-    "string": "يجب أن تكون المستويات مخصصة لكل مستودع"
+    "string": "يجب أن تكون القوالب مخصصة لكل مستودع"
   },
   "src_dot_utils_dot_errors_dot_tooCommon": {
     "string": "كلمة المرور هذه شائعة الاستخدام"
