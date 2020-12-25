@@ -54,6 +54,7 @@ import PermissionGroupSection from "./permissionGroups";
 import PluginsSection from "./plugins";
 import ProductSection from "./products";
 import ProductTypesSection from "./productTypes";
+import RTL from "./RTL";
 import ShippingSection from "./shipping";
 import SiteSettingsSection from "./siteSettings";
 import StaffSection from "./staff";
@@ -107,23 +108,25 @@ const App: React.FC = () => {
     <ApolloProvider client={apolloClient}>
       <BrowserRouter basename={APP_MOUNT_URI}>
         <ThemeProvider isDefaultDark={isDark}>
-          <DateProvider>
-            <LocaleProvider>
-              <MessageManagerProvider>
-                <BackgroundTasksProvider>
-                  <AppStateProvider>
-                    <ShopProvider>
-                      <AuthProvider>
-                        <AppChannelProvider>
-                          <Routes />
-                        </AppChannelProvider>
-                      </AuthProvider>
-                    </ShopProvider>
-                  </AppStateProvider>
-                </BackgroundTasksProvider>
-              </MessageManagerProvider>
-            </LocaleProvider>
-          </DateProvider>
+          <RTL>
+            <DateProvider>
+              <LocaleProvider>
+                <MessageManagerProvider>
+                  <BackgroundTasksProvider>
+                    <AppStateProvider>
+                      <ShopProvider>
+                        <AuthProvider>
+                          <AppChannelProvider>
+                            <Routes />
+                          </AppChannelProvider>
+                        </AuthProvider>
+                      </ShopProvider>
+                    </AppStateProvider>
+                  </BackgroundTasksProvider>
+                </MessageManagerProvider>
+              </LocaleProvider>
+            </DateProvider>
+          </RTL>
         </ThemeProvider>
       </BrowserRouter>
     </ApolloProvider>

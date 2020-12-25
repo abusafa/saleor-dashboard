@@ -25,6 +25,7 @@ const fontFamily = '"Inter", "roboto", "sans-serif"';
 
 const inputOverrides = (colors: IThemeColors): Overrides => ({
   MuiInput: {
+    direction: "rtl",
     input: {
       "&:-webkit-autofill": {
         WebkitTextFillColor: colors.font.default,
