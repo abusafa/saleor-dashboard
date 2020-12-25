@@ -54,10 +54,10 @@ export interface ProductListPageProps
 const useStyles = makeStyles(
   theme => ({
     columnPicker: {
-      marginRight: theme.spacing(3)
+      marginLeft: theme.spacing(3)
     },
     settings: {
-      marginRight: theme.spacing(2)
+      marginLeft: theme.spacing(2)
     }
   }),
   { name: "ProductListPage" }

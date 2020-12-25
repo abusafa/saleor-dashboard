@@ -46,14 +46,14 @@ const useStyles = makeStyles(
       background: `${theme.palette.grey[800]} !important`
     },
     deleteButton: {
-      marginRight: theme.spacing(1)
+      marginLeft: theme.spacing(1)
     },
     dragIcon: {
       cursor: "grab"
     },
     nodeTitle: {
       cursor: "pointer",
-      marginLeft: theme.spacing(7)
+      marginRight: theme.spacing(7)
     },
     root: {
       "& .rst__collapseButton": {
@@ -161,7 +161,7 @@ const Node: React.FC<NodeRendererProps> = props => {
     <div
       className={className}
       style={{
-        marginLeft: NODE_MARGIN * (path.length - 1)
+        marginRight: NODE_MARGIN * (path.length - 1)
       }}
     >
       <Paper className={classes.row} elevation={0}>
@@ -245,7 +245,7 @@ const MenuItems: React.FC<MenuItemsProps> = props => {
             generateNodeProps={({ path }) => ({
               className: classes.row,
               style: {
-                marginLeft: NODE_MARGIN * (path.length - 1)
+                marginRight: NODE_MARGIN * (path.length - 1)
               }
             })}
             isVirtualized={false}

@@ -4,7 +4,7 @@ import { fade } from "@material-ui/core/styles/colorManipulator";
 export const useStyles = makeStyles(
   theme => ({
     cancel: {
-      marginRight: theme.spacing(1)
+      marginLeft: theme.spacing(1)
     },
     copy: {
       marginTop: theme.spacing(),

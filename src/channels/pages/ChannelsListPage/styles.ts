@@ -24,7 +24,7 @@ export const useStyles = makeStyles(
       textAlign: "right"
     },
     columnPicker: {
-      marginRight: theme.spacing(3)
+      marginLeft: theme.spacing(3)
     },
     table: {
       tableLayout: "fixed"

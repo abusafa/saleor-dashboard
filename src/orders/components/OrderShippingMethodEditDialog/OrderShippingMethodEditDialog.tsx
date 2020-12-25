@@ -36,7 +36,7 @@ const useStyles = makeStyles(
       width: "100%"
     },
     price: {
-      marginRight: theme.spacing(3)
+      marginLeft: theme.spacing(3)
     },
     root: {
       overflowY: "visible",

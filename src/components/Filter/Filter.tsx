@@ -30,7 +30,7 @@ const useStyles = makeStyles(
         border: `1px solid ${theme.palette.primary.main}`,
         cursor: "pointer",
         marginBottom: 0,
-        marginRight: theme.spacing(2),
+        marginLeft: theme.spacing(2),
         marginTop: 0,
         transition: theme.transitions.duration.short + "ms"
       }
@@ -57,7 +57,7 @@ const useStyles = makeStyles(
       height: 40,
       justifyContent: "space-around",
       margin: theme.spacing(2, 1),
-      marginLeft: 0,
+      marginRight: 0,
       padding: theme.spacing(0, 2),
       position: "relative"
     },

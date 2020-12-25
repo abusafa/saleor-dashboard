@@ -44,7 +44,7 @@ const useStyles = makeStyles(
       },
       orderNumber: {
         display: "inline",
-        marginLeft: theme.spacing(1)
+        marginRight: theme.spacing(1)
       },
       quantityInnerInput: {
         ...inputPadding

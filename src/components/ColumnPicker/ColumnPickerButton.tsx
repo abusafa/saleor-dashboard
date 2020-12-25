@@ -15,7 +15,7 @@ interface ColumnPickerButtonProps {
 const useStyles = makeStyles(
   theme => ({
     icon: {
-      marginLeft: theme.spacing(2),
+      marginRight: theme.spacing(2),
       transition: theme.transitions.duration.short + "ms"
     },
     root: {

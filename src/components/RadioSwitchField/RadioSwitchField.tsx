@@ -13,7 +13,7 @@ const useStyles = makeStyles(
       width: "100%"
     },
     formLabel: {
-      marginLeft: "-5px",
+      marginRight: "-5px",
       paddingBottom: "10px"
     },
     radioLabel: {

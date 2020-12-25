@@ -47,7 +47,7 @@ const useStyles = makeStyles(
     },
     chip: {
       marginBottom: theme.spacing(1),
-      marginRight: theme.spacing()
+      marginLeft: theme.spacing()
     },
     dialogLabel: {
       marginBottom: theme.spacing(2)
@@ -86,7 +86,7 @@ const useStyles = makeStyles(
     },
     optionLabel: {
       fontSize: 14,
-      marginLeft: 0
+      marginRight: 0
     },
     quickPeekContainer: {
       marginBottom: theme.spacing(-1)

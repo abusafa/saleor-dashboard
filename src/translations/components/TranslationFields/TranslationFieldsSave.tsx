@@ -16,7 +16,7 @@ interface TranslationFieldsSaveProps {
 const useStyles = makeStyles(
   theme => ({
     confirmButton: {
-      marginLeft: theme.spacing(1)
+      marginRight: theme.spacing(1)
     },
     root: {
       display: "flex",

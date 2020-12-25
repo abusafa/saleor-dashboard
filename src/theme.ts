@@ -21,7 +21,7 @@ const createShadow = (pv, pb, ps, uv, ub, us, av, ab, as) =>
 
 export const ICONBUTTON_SIZE = 48;
 
-const fontFamily = '"Inter", "roboto", "sans-serif"';
+const fontFamily = '"Cairo", "Inter", "roboto", "sans-serif"';
 
 const inputOverrides = (colors: IThemeColors): Overrides => ({
   MuiInput: {
@@ -65,9 +65,9 @@ const inputOverrides = (colors: IThemeColors): Overrides => ({
     },
     outlined: {
       "&$shrink": {
-        transform: "translate(12px, 9px) scale(0.75)"
+        transform: "translate(0px, 9px) scale(0.75)"
       },
-      transform: "translate(14px, 18px) scale(1)",
+      transform: "translate(0px, 18px) scale(1)",
       zIndex: 9
     },
     root: {
@@ -214,7 +214,7 @@ const createTheme = (colors: IThemeColors): Theme =>
         },
         root: {
           "& svg": {
-            marginLeft: 8
+            marginRight: 8
           },
           borderRadius: 4
         },
@@ -285,7 +285,7 @@ const createTheme = (colors: IThemeColors): Theme =>
       MuiFormControlLabel: {
         label: {
           lineHeight: 1.2,
-          marginLeft: 4
+          marginRight: 4
         }
       },
       MuiFormLabel: {
@@ -403,7 +403,7 @@ const createTheme = (colors: IThemeColors): Theme =>
           },
           boxShadow: "none",
           left: 1,
-          marginLeft: 4,
+          marginRight: 4,
           top: 5
         },
         thumb: {

@@ -54,7 +54,7 @@ const useStyles = makeStyles(
         "& .ce-inline-toolbar__dropdown": {
           ...hover,
           height: 32,
-          marginRight: 0
+          marginLeft: 0
         },
         "& .ce-inline-toolbar__toggler-and-button-wrapper": {
           paddingRight: 0
@@ -73,7 +73,7 @@ const useStyles = makeStyles(
           left: 16
         },
         "& .codex-editor__redactor": {
-          marginRight: `${theme.spacing(4)}px !important`,
+          marginLeft: `${theme.spacing(4)}px !important`,
           paddingBottom: "0 !important"
         },
         "& a": {

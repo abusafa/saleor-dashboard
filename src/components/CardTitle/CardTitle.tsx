@@ -28,7 +28,7 @@ const useStyles = makeStyles(
       lineHeight: 1
     },
     toolbar: {
-      marginRight: -theme.spacing(1)
+      marginLeft: -theme.spacing(1)
     }
   }),
   { name: "CardTitle" }

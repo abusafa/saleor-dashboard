@@ -25,7 +25,7 @@ const useStyles = makeStyles(
     },
     icon: {
       cursor: "pointer",
-      marginLeft: theme.spacing(2)
+      marginRight: theme.spacing(2)
     }
   }),
   { name: "DateVisibilitySelector" }

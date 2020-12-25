@@ -14,7 +14,7 @@ const useStyles = makeStyles(
     actions: {
       color: theme.palette.text.secondary,
       flexShrink: 0,
-      marginLeft: theme.spacing(2.5)
+      marginRight: theme.spacing(2.5)
     },
     caption: {
       flexShrink: 0
@@ -37,8 +37,8 @@ const useStyles = makeStyles(
     },
     selectRoot: {
       color: theme.palette.text.secondary,
-      marginLeft: theme.spacing(),
-      marginRight: theme.spacing(4)
+      marginRight: theme.spacing(),
+      marginLeft: theme.spacing(4)
     },
     spacer: {
       flex: "1 1 100%"

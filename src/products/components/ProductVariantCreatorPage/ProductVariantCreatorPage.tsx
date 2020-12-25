@@ -23,7 +23,7 @@ import { ProductVariantCreatorStep } from "./types";
 const useStyles = makeStyles(
   theme => ({
     button: {
-      marginLeft: theme.spacing(2)
+      marginRight: theme.spacing(2)
     },
     content: {
       overflowX: "visible",

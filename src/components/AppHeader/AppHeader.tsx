@@ -19,8 +19,8 @@ const useStyles = makeStyles(
     },
     menuButton: {
       flex: "0 0 auto",
-      marginLeft: -theme.spacing(2),
-      marginRight: theme.spacing(),
+      marginRight: -theme.spacing(2),
+      marginLeft: theme.spacing(),
       marginTop: -theme.spacing(2)
     },
     root: {
@@ -44,7 +44,7 @@ const useStyles = makeStyles(
     title: {
       color: "inherit",
       flex: 1,
-      marginLeft: theme.spacing(),
+      marginRight: theme.spacing(),
       textTransform: "uppercase"
     }
   }),

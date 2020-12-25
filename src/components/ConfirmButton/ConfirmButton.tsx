@@ -29,7 +29,7 @@ const styles = (theme: Theme) =>
       color: theme.palette.error.contrastText
     },
     icon: {
-      marginLeft: "0 !important",
+      marginRight: "0 !important",
       position: "absolute",
       transitionDuration: theme.transitions.duration.standard + "ms"
     },

@@ -71,7 +71,7 @@ const useStyles = makeStyles(
       width: 150
     },
     editWarehouses: {
-      marginRight: -theme.spacing()
+      marginLeft: -theme.spacing()
     },
     input: {
       padding: theme.spacing(1.5),

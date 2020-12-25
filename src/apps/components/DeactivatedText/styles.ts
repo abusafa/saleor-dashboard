@@ -17,7 +17,7 @@ export const useStyles = makeStyles(
       },
       color: theme.palette.error.main,
       display: "inline-block",
-      marginLeft: theme.spacing(1.5),
+      marginRight: theme.spacing(1.5),
       paddingLeft: theme.spacing(2),
       position: "relative"
     }

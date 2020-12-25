@@ -35,7 +35,7 @@ const useStyles = makeStyles(
       alignItems: "center",
       display: "flex",
       height: 47,
-      marginRight: -theme.spacing(2)
+      marginLeft: -theme.spacing(2)
     },
     dragRows: {
       padding: 0,
@@ -56,7 +56,7 @@ const useStyles = makeStyles(
     },
     toolbar: {
       "& > *": {
-        marginLeft: theme.spacing(1)
+        marginRight: theme.spacing(1)
       }
     }
   }),

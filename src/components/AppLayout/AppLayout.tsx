@@ -56,9 +56,9 @@ const useStyles = makeStyles(
     },
     darkThemeSwitch: {
       [theme.breakpoints.down("sm")]: {
-        marginRight: theme.spacing(1)
+        marginLeft: theme.spacing(1)
       },
-      marginRight: theme.spacing(2)
+      marginLeft: theme.spacing(2)
     },
     header: {
       display: "grid",
@@ -97,7 +97,7 @@ const useStyles = makeStyles(
     view: {
       flex: 1,
       flexGrow: 1,
-      marginLeft: 0,
+      marginRight: 0,
       paddingBottom: theme.spacing(),
       [theme.breakpoints.up("sm")]: {
         paddingBottom: theme.spacing(3)

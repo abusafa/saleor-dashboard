@@ -21,9 +21,9 @@ const useStyles = makeStyles(
   theme => ({
     arrow: {
       [theme.breakpoints.down("sm")]: {
-        marginLeft: 0
+        marginRight: 0
       },
-      marginLeft: theme.spacing(2),
+      marginRight: theme.spacing(2),
       transition: theme.transitions.duration.standard + "ms"
     },
     avatar: {

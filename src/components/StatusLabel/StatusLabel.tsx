@@ -27,7 +27,7 @@ const useStyles = makeStyles(
       },
       root: {
         display: "inline-block",
-        marginLeft: theme.spacing(1) + 8,
+        marginRight: theme.spacing(1) + 8,
         position: "relative"
       },
       span: {

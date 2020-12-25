@@ -6,8 +6,8 @@ const useStyles = makeStyles(
   theme => ({
     root: {
       [theme.breakpoints.up("lg")]: {
-        marginLeft: "auto",
         marginRight: "auto",
+        marginLeft: "auto",
         maxWidth: theme.breakpoints.width("lg")
       },
       [theme.breakpoints.up("sm")]: {

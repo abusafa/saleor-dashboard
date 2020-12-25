@@ -17,10 +17,10 @@ import Container from "../Container";
 const useStyles = makeStyles(
   theme => ({
     button: {
-      marginRight: theme.spacing(1)
+      marginLeft: theme.spacing(1)
     },
     cancelButton: {
-      marginRight: theme.spacing(2)
+      marginLeft: theme.spacing(2)
     },
     content: {
       "&:last-child": {

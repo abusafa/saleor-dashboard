@@ -26,7 +26,7 @@ export const useStyles = makeStyles(
     },
     appHeaderLinks: {
       "& img": {
-        marginRight: theme.spacing(1)
+        marginLeft: theme.spacing(1)
       },
       alignItems: "center",
       display: "flex",
@@ -70,7 +70,7 @@ export const useStyles = makeStyles(
     error: {
       "& svg": {
         bottom: theme.spacing(0.2),
-        marginLeft: theme.spacing(0.6),
+        marginRight: theme.spacing(0.6),
         position: "relative"
       },
       color: theme.palette.error.main,
@@ -85,7 +85,7 @@ export const useStyles = makeStyles(
       fontSize: theme.spacing(2),
       fontWeight: 500,
       lineHeight: 1.2,
-      marginRight: theme.spacing(3),
+      marginLeft: theme.spacing(3),
       padding: 0,
       textTransform: "none"
     },
@@ -183,7 +183,7 @@ export const useStyles = makeStyles(
     },
     statusWrapper: {
       display: "inline-block",
-      marginLeft: theme.spacing(2.5)
+      marginRight: theme.spacing(2.5)
     },
     table: {
       tableLayout: "fixed"

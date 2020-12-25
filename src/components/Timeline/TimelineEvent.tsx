@@ -17,7 +17,7 @@ const useStyles = makeStyles(
       flexDirection: "column",
       justifyContent: "space-between",
       marginBottom: theme.spacing(),
-      marginLeft: theme.spacing(3),
+      marginRight: theme.spacing(3),
       width: "100%"
     },
     date: {

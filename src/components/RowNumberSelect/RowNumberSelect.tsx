@@ -17,7 +17,7 @@ const useStyles = makeStyles(
           background: "none"
         },
         color: theme.palette.primary.main,
-        marginLeft: theme.spacing(1)
+        marginRight: theme.spacing(1)
       },
       "& svg": {
         color: theme.palette.primary.main

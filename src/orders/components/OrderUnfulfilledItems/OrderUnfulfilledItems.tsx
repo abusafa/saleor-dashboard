@@ -30,7 +30,7 @@ const useStyles = makeStyles(
       width: "auto"
     },
     colNameLabel: {
-      marginLeft: AVATAR_MARGIN
+      marginRight: AVATAR_MARGIN
     },
     colPrice: {
       textAlign: "right",

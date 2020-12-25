@@ -22,7 +22,7 @@ const useStyles = makeStyles(
     return {
       keyTile: {
         "&:first-child": {
-          marginLeft: theme.spacing()
+          marginRight: theme.spacing()
         },
         alignItems: "center",
         background: theme.palette.background.default,
@@ -30,7 +30,7 @@ const useStyles = makeStyles(
         display: "inline-flex",
         height: 32,
         justifyContent: "center",
-        marginLeft: theme.spacing(0.5),
+        marginRight: theme.spacing(0.5),
         padding: theme.spacing(),
         width: 32
       },
@@ -72,7 +72,7 @@ const useStyles = makeStyles(
         },
         border: `1px solid ${theme.palette.divider}`,
         height: 40,
-        marginRight: theme.spacing(2),
+        marginLeft: theme.spacing(2),
         padding: 6,
         width: 40
       }

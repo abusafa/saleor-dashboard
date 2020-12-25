@@ -30,7 +30,7 @@ export interface OrderListPageProps
 const useStyles = makeStyles(
   theme => ({
     settings: {
-      marginRight: theme.spacing(2)
+      marginLeft: theme.spacing(2)
     }
   }),
   { name: "OrderListPage" }

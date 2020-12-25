@@ -25,7 +25,7 @@ const useStyles = makeStyles(
       cursor: "pointer",
       display: "inline-block",
       fontWeight: theme.typography.fontWeightRegular,
-      marginRight: theme.spacing(2),
+      marginLeft: theme.spacing(2),
       minWidth: 40,
       padding: theme.spacing(1),
       transition: theme.transitions.duration.short + "ms"

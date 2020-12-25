@@ -19,7 +19,7 @@ import { isMenuActive } from "./utils";
 const useStyles = makeStyles(
   theme => ({
     expandButton: {
-      marginLeft: theme.spacing(2)
+      marginRight: theme.spacing(2)
     },
     float: {
       position: "fixed"

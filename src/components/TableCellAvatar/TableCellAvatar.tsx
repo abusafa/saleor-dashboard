@@ -24,7 +24,7 @@ const useStyles = makeStyles(
     },
     children: {
       alignSelf: "center",
-      marginLeft: theme.spacing(2),
+      marginRight: theme.spacing(2),
       width: "100%"
     },
     content: {

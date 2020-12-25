@@ -33,7 +33,7 @@ const useStyles = makeStyles(
         height: 24,
         width: 24
       },
-      marginRight: theme.spacing(1.5),
+      marginLeft: theme.spacing(1.5),
       transition: theme.transitions.duration.shortest + "ms"
     },
     label: {
@@ -65,7 +65,7 @@ const useStyles = makeStyles(
       textAlign: "left"
     },
     popper: {
-      marginLeft: theme.spacing(3),
+      marginRight: theme.spacing(3),
       zIndex: 2
     },
     root: {
@@ -73,8 +73,8 @@ const useStyles = makeStyles(
         color: theme.palette.primary.main,
         outline: 0
       },
-      borderBottomRightRadius: 100,
-      borderTopRightRadius: 100,
+      borderBottomLeftRadius: 100,
+      borderTopLeftRadius: 100,
       color: fade(theme.palette.text.primary, 0.6),
       cursor: "pointer",
       display: "flex",

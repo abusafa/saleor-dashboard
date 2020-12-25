@@ -27,7 +27,7 @@ const useStyles = makeStyles(
       marginBottom: -theme.spacing(0.5)
     },
     radioLabelInline: {
-      marginRight: theme.spacing(4)
+      marginLeft: theme.spacing(4)
     },
     root: {
       "& $radioLabel": {

@@ -5,9 +5,9 @@ export const useStyles = makeStyles(
     appSettingsHeader: {
       "& > button, & > a": {
         "&:last-child": {
-          marginRight: 0
+          marginLeft: 0
         },
-        marginRight: theme.spacing(2)
+        marginLeft: theme.spacing(2)
       },
       display: "flex",
       justifyContent: "flex-end"
@@ -26,7 +26,7 @@ export const useStyles = makeStyles(
           textDecoration: "underline"
         }
       },
-      marginRight: theme.spacing(3),
+      marginLeft: theme.spacing(3),
       position: "relative"
     },
     breadcrumbContainer: {

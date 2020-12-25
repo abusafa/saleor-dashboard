@@ -11,7 +11,7 @@ const useStyles = makeStyles(
       transition: theme.transitions.duration.short + "ms"
     },
     arrowLeft: {
-      marginLeft: -24
+      marginRight: -24
     },
     arrowUp: {
       transform: "rotate(180deg)"

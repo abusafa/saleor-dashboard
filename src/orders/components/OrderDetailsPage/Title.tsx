@@ -16,7 +16,7 @@ const useStyles = makeStyles(
       display: "flex"
     },
     statusContainer: {
-      marginLeft: theme.spacing(2)
+      marginRight: theme.spacing(2)
     }
   }),
   { name: "OrderDetailsTitle" }

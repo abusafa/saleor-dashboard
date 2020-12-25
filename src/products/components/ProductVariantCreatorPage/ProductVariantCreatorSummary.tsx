@@ -63,7 +63,7 @@ const useStyles = makeStyles<
   theme => ({
     attributeValue: {
       display: "inline-block",
-      marginRight: theme.spacing(1)
+      marginLeft: theme.spacing(1)
     },
     card: {
       paddingBottom: theme.spacing()

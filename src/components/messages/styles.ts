@@ -17,7 +17,7 @@ export const useStyles = makeStyles(
       to: { transform: "translateX(0)" }
     },
     actionContainer: {
-      marginLeft: -8
+      marginRight: -8
     },
     closeBtn: {
       "& svg": {

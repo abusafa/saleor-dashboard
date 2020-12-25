@@ -21,7 +21,7 @@ interface PluginAuthorizationProps {
 const useStyles = makeStyles(
   theme => ({
     button: {
-      marginLeft: theme.spacing()
+      marginRight: theme.spacing()
     },
     hr: {
       margin: theme.spacing(2, 0)

@@ -44,10 +44,10 @@ const useStyles = makeStyles(
       margin: theme.spacing(0, 2)
     },
     arrow: {
-      marginRight: theme.spacing(2)
+      marginLeft: theme.spacing(2)
     },
     clear: {
-      marginRight: theme.spacing(1)
+      marginLeft: theme.spacing(1)
     },
     filterFieldBar: {
       "&:not(:last-of-type)": {

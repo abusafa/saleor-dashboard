@@ -40,7 +40,7 @@ const useStyles = makeStyles(
       width: "auto"
     },
     colNameLabel: {
-      marginLeft: AVATAR_MARGIN
+      marginRight: AVATAR_MARGIN
     },
     colQuantity: {
       textAlign: "right",
@@ -57,7 +57,7 @@ const useStyles = makeStyles(
       width: 100
     },
     remainingQuantity: {
-      marginLeft: theme.spacing(),
+      marginRight: theme.spacing(),
       paddingTop: 14
     },
     table: {

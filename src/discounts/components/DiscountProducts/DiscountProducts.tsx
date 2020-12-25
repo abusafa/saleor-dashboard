@@ -48,7 +48,7 @@ const useStyles = makeStyles(
       width: "auto"
     },
     colNameLabel: {
-      marginLeft: AVATAR_MARGIN + theme.spacing(3)
+      marginRight: AVATAR_MARGIN + theme.spacing(3)
     },
     colPublished: {
       width: 150

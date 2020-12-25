@@ -16,7 +16,7 @@ const useStyles = makeStyles(
         width: "100%"
       },
       alignSelf: "flex-start",
-      marginRight: theme.spacing(3.5)
+      marginLeft: theme.spacing(3.5)
     },
     button: {
       zIndex: 2
@@ -56,7 +56,7 @@ const useStyles = makeStyles(
       borderColor: theme.palette.divider,
       borderStyle: "solid",
       borderWidth: "0 0 0 2px",
-      marginLeft: 20,
+      marginRight: 20,
       paddingLeft: theme.spacing(3)
     }
   }),

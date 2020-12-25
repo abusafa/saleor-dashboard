@@ -42,7 +42,7 @@ const useStyles = makeStyles(
     },
     colName: {},
     colNameHeader: {
-      marginLeft: AVATAR_MARGIN
+      marginRight: AVATAR_MARGIN
     },
     colPrice: {
       textAlign: "right"

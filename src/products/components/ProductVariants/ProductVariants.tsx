@@ -114,7 +114,7 @@ const useStyles = makeStyles(
     },
     warehouseLabel: {
       display: "inline-block",
-      marginRight: theme.spacing()
+      marginLeft: theme.spacing()
     },
     warehouseSelectContainer: {
       paddingTop: theme.spacing(2)

@@ -30,7 +30,7 @@ const useStyles = makeStyles(
       display: "flex"
     },
     button: {
-      marginRight: theme.spacing()
+      marginLeft: theme.spacing()
     },
     item: {
       "&:not(:last-child)": {

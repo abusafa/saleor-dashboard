@@ -3,7 +3,7 @@ import makeStyles from "@material-ui/core/styles/makeStyles";
 export const useStyles = makeStyles(
   theme => ({
     activeBtn: {
-      marginLeft: theme.spacing(-1),
+      marginRight: theme.spacing(-1),
       marginTop: theme.spacing(1.5)
     },
     copyBtn: {

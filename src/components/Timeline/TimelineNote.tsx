@@ -38,7 +38,7 @@ const useStyles = makeStyles(
     },
     card: {
       marginBottom: theme.spacing(3),
-      marginLeft: theme.spacing(3),
+      marginRight: theme.spacing(3),
       position: "relative"
     },
     cardContent: {

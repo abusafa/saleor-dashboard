@@ -33,7 +33,7 @@ const useStyles = makeStyles(
       float: "left",
       height: 47,
       justifyContent: "center",
-      marginRight: theme.spacing(1),
+      marginLeft: theme.spacing(1),
       overflow: "hidden",
       width: 47
     },

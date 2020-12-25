@@ -34,7 +34,7 @@ const useStyles = makeStyles(
       width: "auto"
     },
     colNameLabel: {
-      marginLeft: AVATAR_MARGIN
+      marginRight: AVATAR_MARGIN
     },
     colPrice: {
       textAlign: "right",
@@ -64,7 +64,7 @@ const useStyles = makeStyles(
     },
     orderNumber: {
       display: "inline",
-      marginLeft: theme.spacing(1)
+      marginRight: theme.spacing(1)
     },
     statusBar: {
       paddingTop: 0

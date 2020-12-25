@@ -41,7 +41,7 @@ const useStyles = makeStyles(
       transition: theme.transitions.duration.short + "ms"
     },
     cancelButton: {
-      marginRight: theme.spacing(2)
+      marginLeft: theme.spacing(2)
     },
     content: {
       [theme.breakpoints.down("sm")]: {
