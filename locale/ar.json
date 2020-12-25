@@ -37,17 +37,17 @@
     "string": "إدارة كيفية فرض متجرك للضرائب"
   },
   "configurationMenuWarehouses": {
-    "string": "إدارة و تحديث معلومات مستودعك"
+    "string": "إدارة و تحديث بيانات مستودعك"
   },
   "configurationPluginsPages": {
     "string": "عرض وتحديث الإضافات والإعدادات الخاصة بها"
   },
   "homeActivityCardHeader": {
     "context": "header",
-    "string": "التفاعل"
+    "string": "الحركات"
   },
   "homeActivityCardNoActivities": {
-    "string": "لا يوجد تفاعلات"
+    "string": "لا توجد حركات"
   },
   "homeAnalyticsCardHeader": {
     "string": "اليوم"
@@ -58,25 +58,25 @@
   },
   "homeHeaderTextCaption": {
     "context": "subheader",
-    "string": "إليك بعض المعلومات التي جمعناها عن متجرك"
+    "string": "بيانات تهمك قمنا بجمعها عن المتجر"
   },
   "homeNotificationTableNoOrders": {
     "string": "لا توجد طلبات لتنفيذها"
   },
   "homeNotificationTableOrders": {
-    "string": "{amount, plural,one {طلب واحد جاهز للتنفيذ} other {{amount} طلب جاهز للتنفيذ}}"
+    "string": "{amount, plural,one {طلب واحد جاهز للتنفيذ} other {{amount} من الطلبات جاهزة للتنفيذ}}"
   },
   "homeNotificationTablePayments": {
-    "string": "{amount, plural,one {دفعة واحدة جاهزة للاستيفاء}other {{amount} دفعة جاهزة للاستيفاء}}"
+    "string": "{amount, plural,one {دفعة واحدة جاهزة للاستيفاء}other {{amount} من الدفعات جاهزة للاستيفاء}}"
   },
   "homeNotificationTableProducts": {
-    "string": "{amount, plural,one {منتج واحد غير متوفر في المخزون}other {{amount} منتج غير متوفر في المخزون}}"
+    "string": "{amount, plural,one {منتج واحد غير متوفر في المخزون}other {{amount} من المنتجات غير متوفر في المخزون}}"
   },
   "homeNotificationsNoPayments": {
-    "string": "لا يوجد دفعات مالية بانتظار الإستلام"
+    "string": "لا توجد دفعات مالية بانتظار الإستلام"
   },
   "homeNotificationsTableNoProducts": {
-    "string": "لا يوجد منتجات تم اخراجها من المخزن"
+    "string": "لا توجد منتجات تم اخراجها من المخزن"
   },
   "homeProductListCardOrders": {
     "context": "number of ordered products",
@@ -94,7 +94,7 @@
     "string": "إلغاء"
   },
   "homeScreenDisclaimerText1": {
-    "string": "لوحة المعلومات الجديدة و واجهة برمجة تطبيقات GraphQL هي من البرامج التي تحدد جودة العرض  ."
+    "string": "لوحة البيانات الجديدة و واجهة برمجة تطبيقات GraphQL هي من البرامج التي تحدد جودة العرض  ."
   },
   "homeScreenDisclaimerText2": {
     "string": "تعد واجهة برمجة تطبيقات GraphQL ذات جودة محدودة  و لم يتم تحسينها بشكل كاف و هي تفقد لبعض التغييرات و التطويرات"
@@ -478,7 +478,7 @@
   },
   "src_dot_apps_dot_components_dot_AppInstallErrorPage_dot_1261716527": {
     "context": "content",
-    "string": "لم يتمكن البائع من توفير المعلومات المهمة المتعلقة بالتثبيت. بدون هذه المعلومات لا يمكن تثبيت التطبيق في متجر (اسم المنصة)  . الرجاء استخدام الزر أدناه للرجوع إلى لوحة تحكم النظام."
+    "string": "لم يتمكن البائع من توفير البيانات المهمة المتعلقة بالتثبيت. بدون هذه البيانات لا يمكن تثبيت التطبيق في متجر (اسم المنصة)  . الرجاء استخدام الزر أدناه للرجوع إلى لوحة تحكم النظام."
   },
   "src_dot_apps_dot_components_dot_AppInstallErrorPage_dot_3375237564": {
     "context": "button",
@@ -571,7 +571,7 @@
   },
   "src_dot_apps_dot_components_dot_CustomAppInformation_dot_2860466085": {
     "context": "header",
-    "string": "معلومات التطبيق"
+    "string": "بيانات التطبيق"
   },
   "src_dot_apps_dot_components_dot_CustomAppInformation_dot_3001692357": {
     "context": "custom app name",
@@ -617,7 +617,7 @@
   },
   "src_dot_apps_dot_components_dot_InstalledApps_dot_186286611": {
     "context": "apps content",
-    "string": "لا يوجد لديك أي تطبيقات مثبتة في لوحة الإعدادات"
+    "string": "لا توجد لديك أي تطبيقات مثبتة في لوحة الإعدادات"
   },
   "src_dot_apps_dot_components_dot_InstalledApps_dot_3504763431": {
     "context": "section header",
@@ -798,25 +798,25 @@
   },
   "src_dot_attributes_dot_components_dot_AttributeListPage_dot_visibleInStorefront": {
     "context": "attribute",
-    "string": "مرئي على صفحة المنتج في واجهة المتجر"
+    "string": "ظاهر على صفحة المنتج في واجهة المتجر"
   },
   "src_dot_attributes_dot_components_dot_AttributeList_dot_1192828581": {
     "string": "لم يتم العثور على السمات"
   },
   "src_dot_attributes_dot_components_dot_AttributeList_dot_2186555805": {
     "context": "attribute can be searched in storefront",
-    "string": "استخدم في البحث السطحي"
+    "string": "يظهر للبحث في المتجر"
   },
   "src_dot_attributes_dot_components_dot_AttributeList_dot_2235596452": {
     "context": "attribute can be searched in dashboard",
-    "string": "قابل للبحث"
+    "string": "يستخدم للبحث"
   },
   "src_dot_attributes_dot_components_dot_AttributeList_dot_3605174225": {
     "string": "رمز السمة"
   },
   "src_dot_attributes_dot_components_dot_AttributeList_dot_643174786": {
     "context": "attribute is visible",
-    "string": "مرئي"
+    "string": "ظاهر"
   },
   "src_dot_attributes_dot_components_dot_AttributeList_dot_691600601": {
     "context": "attribute's label'",
@@ -846,7 +846,7 @@
   },
   "src_dot_attributes_dot_components_dot_AttributeProperties_dot_1318123158": {
     "context": "attribute is filterable in storefront",
-    "string": "استخدم في التنقل السطحي"
+    "string": "يستخدم لتصفية النتائج في المتجر"
   },
   "src_dot_attributes_dot_components_dot_AttributeProperties_dot_1877630205": {
     "context": "attribute properties regarding storefront",
@@ -1005,11 +1005,11 @@
     "string": "تم الإلغاء"
   },
   "src_dot_catalog": {
-    "string": "الفهرس"
+    "string": "لائحة"
   },
   "src_dot_categories": {
     "context": "categories section name",
-    "string": "التصنيفات"
+    "string": "فئات المنتجات"
   },
   "src_dot_categories_dot_components_dot_CategoryBackground_dot_2224943474": {
     "context": "section header",
@@ -1285,7 +1285,7 @@
   },
   "src_dot_clear": {
     "context": "button",
-    "string": "واضح"
+    "string": "إلغاء"
   },
   "src_dot_collections": {
     "context": "collections section name",
@@ -1293,7 +1293,7 @@
   },
   "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_643174786": {
     "context": "collection label",
-    "string": "مرئي"
+    "string": "ظاهر"
   },
   "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_77815154": {
     "context": "collection label",
@@ -1308,7 +1308,7 @@
   },
   "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_643174786": {
     "context": "collection label",
-    "string": "مرئي"
+    "string": "ظاهر"
   },
   "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_77815154": {
     "context": "collection label",
@@ -1331,7 +1331,7 @@
   },
   "src_dot_collections_dot_components_dot_CollectionListPage_dot_1631917001": {
     "context": "tab name",
-    "string": "كل المجموعات"
+    "string": "جميع المجموعات"
   },
   "src_dot_collections_dot_components_dot_CollectionListPage_dot_4057224233": {
     "string": "بحث في المجموعة"
@@ -1370,7 +1370,7 @@
   },
   "src_dot_collections_dot_components_dot_CollectionProducts_dot_3326160357": {
     "context": "product availability",
-    "string": "توافر"
+    "string": "توافر المنتج"
   },
   "src_dot_collections_dot_components_dot_CollectionProducts_dot_4114667680": {
     "context": "products in collection",
@@ -1557,7 +1557,7 @@
     "string": "قيمة"
   },
   "src_dot_components_dot_AutocompleteSelectMenu_dot_2332404293": {
-    "string": "لا يوجد نتائج"
+    "string": "لا توجد نتائج"
   },
   "src_dot_components_dot_AvailabilityCard_dot_1306298759": {
     "context": "product availability",
@@ -1673,7 +1673,7 @@
   },
   "src_dot_components_dot_ColumnPicker_dot_2539195044": {
     "context": "select visible columns button",
-    "string": "الأعمدة"
+    "string": "الحقول"
   },
   "src_dot_components_dot_ColumnPicker_dot_2715399461": {
     "context": "pick columns to display",
@@ -1737,7 +1737,7 @@
     "string": "خطأ"
   },
   "src_dot_components_dot_ErrorPage_dot_3090161573": {
-    "string": "لا تقلق ، كل شيء سيكون على ما يرام"
+    "string": "لا تقلق ، جميع شيء سيكون على ما يرام"
   },
   "src_dot_components_dot_ErrorPage_dot_3182212440": {
     "string": "لقد واجهتنا مشكلة ..."
@@ -1797,7 +1797,7 @@
   },
   "src_dot_components_dot_Metadata_dot_1148029984": {
     "context": "metadata field value, header",
-    "string": "القيمة"
+    "string": "المحتوى"
   },
   "src_dot_components_dot_Metadata_dot_1509432322": {
     "context": "header",
@@ -1809,15 +1809,15 @@
   },
   "src_dot_components_dot_Metadata_dot_2024779015": {
     "context": "empty metadata text",
-    "string": "لا توجد بيانات وصفية خاصة تم إنشاؤها لهذا العنصر."
+    "string": "لا توجد بيانات وصفية خاصة تم إنشاؤها ."
   },
   "src_dot_components_dot_Metadata_dot_2087058956": {
     "context": "empty metadata text",
-    "string": "لا توجد بيانات وصفية تم إنشاؤها لهذا العنصر."
+    "string": "لا توجد بيانات وصفية تم إنشاؤها ."
   },
   "src_dot_components_dot_Metadata_dot_2537046678": {
     "context": "metadata field name, header",
-    "string": "حقل"
+    "string": "الحقل"
   },
   "src_dot_components_dot_Metadata_dot_3181473584": {
     "context": "add metadata field,button",
@@ -1829,7 +1829,7 @@
   },
   "src_dot_components_dot_Metadata_dot_549104951": {
     "context": "number of metadata fields in model",
-    "string": "{number,plural,one{{number} Field} other{{number} Fields}}"
+    "string": "{number,plural,one{{number} حقل واحد} other{عدد {number} من الحقول}}"
   },
   "src_dot_components_dot_Metadata_dot_553451245": {
     "context": "empty metadata text",
@@ -1882,7 +1882,7 @@
   },
   "src_dot_components_dot_Navigator_dot_2935523260": {
     "context": "navigator placeholder",
-    "string": "بحث في الفهرس"
+    "string": "بحث في اللائحة"
   },
   "src_dot_components_dot_Navigator_dot_3060198201": {
     "context": "navigator section header",
@@ -1951,7 +1951,7 @@
   },
   "src_dot_components_dot_Navigator_dot_modes_dot_helpCatalogMode": {
     "context": "navigator catalog mode description",
-    "string": "ابحث في الفهرس"
+    "string": "ابحث في اللائحة"
   },
   "src_dot_components_dot_Navigator_dot_modes_dot_helpCommandsMode": {
     "context": "navigator command mode description",
@@ -1993,7 +1993,7 @@
     "string": "العودة إلى لوحة التحكم"
   },
   "src_dot_components_dot_PriceField_dot_4072537038": {
-    "string": "Price cannot be lower than 0"
+    "string": "لايمكن للسعر أن يكون أقل من صفر"
   },
   "src_dot_components_dot_RadioGroupField_dot_4205644805": {
     "string": "لم يتم العثور على نتائج"
@@ -2028,10 +2028,10 @@
   },
   "src_dot_components_dot_SeoForm_dot_3198271020": {
     "context": "button",
-    "string": "تعديل سيو الموقع"
+    "string": "تعديل"
   },
   "src_dot_components_dot_SeoForm_dot_3468022343": {
-    "string": "معاينة محرك البحث"
+    "string": " تحسينات محرك البحث"
   },
   "src_dot_components_dot_SeoForm_dot_3478065224": {
     "string": "الدرجة"
@@ -2064,7 +2064,7 @@
     "string": "إرسال"
   },
   "src_dot_components_dot_Timeline_dot_3028189627": {
-    "string": "اترك ملاحظتك هنا ..."
+    "string": "اكنب ملاحظتك هنا ..."
   },
   "src_dot_components_dot_UserChip_dot_21332146": {
     "context": "button",
@@ -2076,7 +2076,7 @@
   },
   "src_dot_components_dot_UserChip_dot_85001470": {
     "context": "button",
-    "string": "Enable Dark Mode"
+    "string": "ألوان معتمة"
   },
   "src_dot_components_dot_VisibilityCard_dot_1311467573": {
     "string": "اظهار في قوائم المنتجات"
@@ -2145,10 +2145,10 @@
     "string": "السمات وأنواع المنتجات"
   },
   "src_dot_configuration_dot_3140151600": {
-    "string": "إعدادات الموظفين"
+    "string": "إعدادات طاقم العمل"
   },
   "src_dot_configuration_dot_3351299924": {
-    "string": "Content Management"
+    "string": "إنشاء محتوى"
   },
   "src_dot_configuration_dot_3655543906": {
     "string": "إعدادات المنتج"
@@ -2208,7 +2208,7 @@
     "string": "هذا العميل ليس لديه أي عناوين مضافة إلى دفتر العناوين الخاص به. يمكنك إضافة العنوان باستخدام الزر أدناه."
   },
   "src_dot_customers_dot_components_dot_CustomerAddressListPage_dot_1484733755": {
-    "string": "لا يوجد عنوان لعرضه لهذا العميل"
+    "string": "لا توجد عنوان لعرضه لهذا العميل"
   },
   "src_dot_customers_dot_components_dot_CustomerAddressListPage_dot_3623935073": {
     "context": "button",
@@ -2237,7 +2237,7 @@
   },
   "src_dot_customers_dot_components_dot_CustomerAddresses_dot_1967111456": {
     "context": "header",
-    "string": "معلومات العنوان"
+    "string": "بيانات العنوان"
   },
   "src_dot_customers_dot_components_dot_CustomerAddresses_dot_2758581442": {
     "context": "subsection header",
@@ -2274,7 +2274,7 @@
     "string": "ملاحظة"
   },
   "src_dot_customers_dot_components_dot_CustomerCreateNote_dot_932844352": {
-    "string": "أدخل أي معلومات إضافية بخصوص هذا العميل."
+    "string": "أدخل أي بيانات إضافية بخصوص هذا العميل."
   },
   "src_dot_customers_dot_components_dot_CustomerCreatePage_dot_4025686004": {
     "context": "page header",
@@ -2294,11 +2294,11 @@
   },
   "src_dot_customers_dot_components_dot_CustomerInfo_dot_252313757": {
     "context": "customer informations, header",
-    "string": "المعلومات الشخصية"
+    "string": "البيانات الشخصية"
   },
   "src_dot_customers_dot_components_dot_CustomerInfo_dot_778526801": {
     "context": "customer contact section, header",
-    "string": "معلومات الاتصال"
+    "string": "بيانات الاتصال"
   },
   "src_dot_customers_dot_components_dot_CustomerListPage_dot_1643417013": {
     "string": "البحث عن العملاء"
@@ -2309,7 +2309,7 @@
   },
   "src_dot_customers_dot_components_dot_CustomerListPage_dot_477293306": {
     "context": "tab name",
-    "string": "كل العملاء"
+    "string": "جميع العملاء"
   },
   "src_dot_customers_dot_components_dot_CustomerListPage_dot_joinDate": {
     "context": "customer",
@@ -2355,7 +2355,7 @@
     "string": "المجموع"
   },
   "src_dot_customers_dot_components_dot_CustomerOrders_dot_898333473": {
-    "string": "لم يتم العثور على آية طلبات"
+    "string": "لا توجد طلبيات سابقة"
   },
   "src_dot_customers_dot_components_dot_CustomerStats_dot_1135318032": {
     "string": "آخر تسجيل دخول"
@@ -2365,7 +2365,7 @@
   },
   "src_dot_customers_dot_components_dot_CustomerStats_dot_2543847016": {
     "context": "section header",
-    "string": "تاريخ العميل"
+    "string": "تواريخ"
   },
   "src_dot_customers_dot_views_dot_1927691511": {
     "context": "delete customer, dialog content",
@@ -2481,7 +2481,7 @@
   },
   "src_dot_discounts_dot_components_dot_DiscountDates_dot_1662220323": {
     "context": "time during discount is active, header",
-    "string": "التواريخ النشطة"
+    "string": "مدة فعالية الخصم"
   },
   "src_dot_discounts_dot_components_dot_DiscountProducts_dot_1657559629": {
     "string": "لا توجد منتجات"
@@ -2495,7 +2495,7 @@
   },
   "src_dot_discounts_dot_components_dot_DiscountProducts_dot_3326160357": {
     "context": "product availability",
-    "string": "توافر"
+    "string": "توفر المنتج"
   },
   "src_dot_discounts_dot_components_dot_DiscountProducts_dot_4257289053": {
     "string": "نوع المنتج"
@@ -2521,7 +2521,7 @@
   },
   "src_dot_discounts_dot_components_dot_SaleListPage_dot_3907768880": {
     "context": "tab name",
-    "string": "كل تخفيضات"
+    "string": "جميع تخفيضات"
   },
   "src_dot_discounts_dot_components_dot_SaleListPage_dot_active": {
     "context": "sale status",
@@ -2537,7 +2537,7 @@
   },
   "src_dot_discounts_dot_components_dot_SaleListPage_dot_percentage": {
     "context": "discount type",
-    "string": "النسبة المئوية"
+    "string": "نسبة مئوية"
   },
   "src_dot_discounts_dot_components_dot_SaleListPage_dot_scheduled": {
     "context": "sale status",
@@ -2587,7 +2587,7 @@
   },
   "src_dot_discounts_dot_components_dot_SaleType_dot_3688224049": {
     "context": "discount type",
-    "string": "النسبة المئوية"
+    "string": "نسبة مئوية"
   },
   "src_dot_discounts_dot_components_dot_SaleType_dot_46415128": {
     "context": "discount type",
@@ -2622,7 +2622,7 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherDates_dot_1662220323": {
     "context": "time during voucher is active, header",
-    "string": "التواريخ النشطة"
+    "string": "مدة فعالية القسيمة"
   },
   "src_dot_discounts_dot_components_dot_VoucherDetailsPage_dot_2071139683": {
     "string": "القسيمة سارية في جميع البلدان"
@@ -2654,7 +2654,7 @@
     "string": "إنشاء رقم تسلسلي"
   },
   "src_dot_discounts_dot_components_dot_VoucherLimits_dot_2215544659": {
-    "string": "حد عدد مرات استخدام هذا الخصم بشكل إجمالي"
+    "string": "حدد عدد مرات استخدام هذا الخصم"
   },
   "src_dot_discounts_dot_components_dot_VoucherLimits_dot_3459612469": {
     "context": "limit voucher",
@@ -2666,7 +2666,7 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherLimits_dot_557552777": {
     "context": "voucher",
-    "string": "حدود الاستخدامات"
+    "string": "حد الاستخدام"
   },
   "src_dot_discounts_dot_components_dot_VoucherListPage_dot_1112241061": {
     "context": "tab name",
@@ -2693,7 +2693,7 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherListPage_dot_percentage": {
     "context": "discount type",
-    "string": "النسبة المئوية"
+    "string": "نسبة مئوية"
   },
   "src_dot_discounts_dot_components_dot_VoucherListPage_dot_scheduled": {
     "context": "voucher status",
@@ -2720,7 +2720,7 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherList_dot_2427377316": {
     "context": "minimum amount of spent money to activate voucher",
-    "string": "دقيقة. مضت"
+    "string": "أقل مبلغ"
   },
   "src_dot_discounts_dot_components_dot_VoucherList_dot_3715522424": {
     "context": "voucher is active until date",
@@ -2758,7 +2758,7 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_3740704788": {
     "context": "voucher requirement",
-    "string": "الحد الأدنى لكمية العناصر"
+    "string": "الحد الأدنى لعدد الأشياء "
   },
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_4097816011": {
     "string": "No channels found"
@@ -2797,11 +2797,11 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherTypes_dot_3289659291": {
     "context": "voucher discount type",
-    "string": "الشحن مجانا"
+    "string": "شحن مجانا"
   },
   "src_dot_discounts_dot_components_dot_VoucherTypes_dot_3688224049": {
     "context": "voucher discount type",
-    "string": "النسبة المئوية"
+    "string": "نسبة مئوية"
   },
   "src_dot_discounts_dot_components_dot_VoucherTypes_dot_46415128": {
     "context": "voucher discount type",
@@ -2813,7 +2813,7 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_1148029984": {
     "context": "section header",
-    "string": "القيمة"
+    "string": "المحتوى"
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_1205967018": {
     "string": "قيمة الخصم"
@@ -2826,13 +2826,13 @@
     "string": "Channels that don’t have assigned discounts will use their parent channel to define the price. Price will be converted to channel’s currency"
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_1960678372": {
-    "string": "معلومات القسيمة الخاصة"
+    "string": "بيانات القسيمة"
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_4097816011": {
     "string": "No channels found"
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_4189095909": {
-    "string": "إذا تم تعطيل هذا الخيار ، فسيتم احتساب الخصم لكل منتج موافق"
+    "string": "إذا تم تعطيل هذا الخيار ، فسيتم احتساب الخصم لكل منتج متوافق"
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_507892781": {
     "context": "column title",
@@ -2840,7 +2840,7 @@
   },
   "src_dot_discounts_dot_order": {
     "context": "voucher discount",
-    "string": "إدخال الطلب"
+    "string": "كل الطلب"
   },
   "src_dot_discounts_dot_products": {
     "context": "voucher discount",
@@ -2956,7 +2956,7 @@
   },
   "src_dot_done": {
     "context": "button",
-    "string": "تم انجازه"
+    "string": "موافق"
   },
   "src_dot_draft": {
     "context": "order status",
@@ -2994,7 +2994,7 @@
     "string": "منجز"
   },
   "src_dot_generalInformations": {
-    "string": "معلومات عامة"
+    "string": "بيانات عامة"
   },
   "src_dot_home": {
     "context": "home section name",
@@ -3072,7 +3072,7 @@
     "string": "لا يمكن للبائع إلغاء الطلب"
   },
   "src_dot_orders_dot_components_dot_OrderCannotCancelOrderDialog_dot_775268031": {
-    "string": "لا تزال هناك عمليات استيفاء تم إنشاؤها لهذا الطلب. قم بإلغاء عمليات الاستيفاء أولاً قبل إلغاء الطلب."
+    "string": "لا يزال هذا الطلب تحت الإنجاز. قم بإيقاف عملية الإنجاز أولاً قبل إلغاء الطلب."
   },
   "src_dot_orders_dot_components_dot_OrderChannelSectionCard_dot_1243773440": {
     "context": "section header",
@@ -3087,7 +3087,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderCustomer_dot_2312694610": {
     "context": "subheader",
-    "string": "معلومات التواصل"
+    "string": "بيانات التواصل"
   },
   "src_dot_orders_dot_components_dot_OrderCustomer_dot_2433460203": {
     "string": "البحث عن العملاء"
@@ -3111,7 +3111,7 @@
     "string": "مستخدم مجهول"
   },
   "src_dot_orders_dot_components_dot_OrderCustomer_dot_4282475982": {
-    "string": "عنوان وصول الفواتير"
+    "string": "العنوان الذي ترسل له الفواتير"
   },
   "src_dot_orders_dot_components_dot_OrderDetailsPage_dot_1854613983": {
     "context": "button",
@@ -3226,11 +3226,11 @@
   },
   "src_dot_orders_dot_components_dot_OrderFulfillPage_dot_2095687440": {
     "context": "fulfill order, button",
-    "string": "الاستيفاء"
+    "string": "انجاز"
   },
   "src_dot_orders_dot_components_dot_OrderFulfillPage_dot_2588284040": {
     "context": "no variant stock in warehouse",
-    "string": "لا يوجد مخزون"
+    "string": "لا توجد مخزون"
   },
   "src_dot_orders_dot_components_dot_OrderFulfillPage_dot_3244948255": {
     "context": "header",
@@ -3256,7 +3256,7 @@
     "string": "SKU"
   },
   "src_dot_orders_dot_components_dot_OrderFulfillmentCancelDialog_dot_1097287358": {
-    "string": "هل أنت متأكد أنك تريد إلغاء الإستيفاء؟ سيؤدي إلغاء الاستيفاء إلى إعادة تخزين المنتجات في المستودع المحدد."
+    "string": "هل أنت متأكد أنك تريد إلغاء الإستيفاء؟ سيؤدي إلغاء الإنجاز إلى إعادة تخزين المنتجات في المستودع المحدد."
   },
   "src_dot_orders_dot_components_dot_OrderFulfillmentCancelDialog_dot_46197273": {
     "context": "select warehouse to restock items",
@@ -3310,7 +3310,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_2567258278": {
     "context": "refunded fulfillment, section header",
-    "string": "Refunded ({quantity})"
+    "string": "المستردة ({quantity})"
   },
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_2796503714": {
     "context": "ordered product quantity",
@@ -3321,7 +3321,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_3494686506": {
     "context": "section header",
-    "string": "مكتملة ({quantity})"
+    "string": "منجزة ({quantity})"
   },
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_4039425374": {
     "context": "cancelled fulfillment, section header",
@@ -3352,10 +3352,10 @@
     "string": "تم تحديث عنوان الطلب"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_123236698": {
-    "string": "Shipment was refunded"
+    "string": "الشحنة تم استردادها"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_1322321687": {
-    "string": "Refunded amount"
+    "string": "مبلغ الاسترداد"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_1463685940": {
     "context": "order history message",
@@ -3367,7 +3367,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_1527620381": {
     "context": "order history message",
-    "string": "تم إلغاء الاستيفاء"
+    "string": "تم إلغاء الإنجاز"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_184692906": {
     "context": "order history message",
@@ -3419,7 +3419,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3081292385": {
     "context": "order history message",
-    "string": "تم إرسال تأكيد الاستيفاء إلى العميل"
+    "string": "تم إرسال تأكيد انجاز إلى العميل"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3095247195": {
     "context": "order history message",
@@ -3443,14 +3443,14 @@
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3731274949": {
     "context": "order history message",
-    "string": "Order was refunded by {refundedBy}"
+    "string": "تم استرداد الطلب من قبل  {refundedBy}"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_393045022": {
     "context": "order history message",
     "string": "رقم الفاتورة. تم تحديث {invoiceNumber}"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3990160018": {
-    "string": "تاريخ الطلب"
+    "string": "التسلسل الزمني للطلب"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_4015160303": {
     "context": "order history message",
@@ -3462,22 +3462,22 @@
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_4121987561": {
     "context": "order history message",
-    "string": "تم إرسال معلومات استرداد الطلب إلى العميل"
+    "string": "تم إرسال بيانات استرداد الطلب إلى العميل"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_4265697648": {
     "context": "order history message",
-    "string": "رقم تتبع مجموعة الاستيفاء المحدث"
+    "string": "رقم تتبع مجموعة الانجاز المحدث"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_4266665081": {
     "context": "order history message",
     "string": "فشل عملية الدفع"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_492197448": {
-    "string": "Products refunded"
+    "string": "المنتجات مستردة"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_493321552": {
     "context": "order history message",
-    "string": "تم إرسال معلومات إلغاء الطلب إلى العميل"
+    "string": "تم إرسال بيانات إلغاء الطلب إلى العميل"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_651019008": {
     "context": "order history message",
@@ -3511,7 +3511,7 @@
     "string": "تم الانشاء"
   },
   "src_dot_orders_dot_components_dot_OrderInvoiceList_dot_3340654960": {
-    "string": "لا توجد فواتير ليتم عرضها"
+    "string": "لا توجد فواتير  "
   },
   "src_dot_orders_dot_components_dot_OrderInvoiceList_dot_3589949197": {
     "context": "invoice number prefix",
@@ -3545,7 +3545,7 @@
     "string": "تم الانشاء"
   },
   "src_dot_orders_dot_components_dot_OrderList_dot_1198046928": {
-    "string": "حالة الاستيفاء"
+    "string": "حالة الإنجاز"
   },
   "src_dot_orders_dot_components_dot_OrderList_dot_2743232155": {
     "context": "payment status",
@@ -3600,7 +3600,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderPayment_dot_1322321687": {
     "context": "order payment",
-    "string": "Refunded amount"
+    "string": "مبلغ الاسترداد"
   },
   "src_dot_orders_dot_components_dot_OrderPayment_dot_1325966144": {
     "context": "order shipping method name",
@@ -3692,7 +3692,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_2854815744": {
     "context": "order refund amount",
-    "string": "Previously refunded"
+    "string": "تم استرداده سابقا"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_2907874606": {
     "context": "order refund amount",
@@ -3700,18 +3700,18 @@
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_79173946": {
     "context": "order refund amount",
-    "string": "Shipment cost"
+    "string": "قيمة الشحن"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmount_dot_120912052": {
     "context": "order refund amount",
-    "string": "Refunded items can’t be fulfilled"
+    "string": "لايمكن انجاز ما تم استرداده"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmount_dot_159210811": {
     "string": "Amount must be bigger than 0"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmount_dot_2256869831": {
     "context": "section header",
-    "string": "Refunded Amount"
+    "string": "قيمة الاسترداد"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmount_dot_2845258362": {
     "context": "order refund amount, input button",
@@ -3863,7 +3863,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderUnfulfilledItems_dot_2095687440": {
     "context": "button",
-    "string": "الاستيفاء"
+    "string": "إنجاز"
   },
   "src_dot_orders_dot_components_dot_OrderUnfulfilledItems_dot_2796503714": {
     "context": "ordered products",
@@ -3871,7 +3871,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderUnfulfilledItems_dot_2886647373": {
     "context": "section header",
-    "string": "غير مستوفي({quantity})"
+    "string": "غير منجزة ({quantity})"
   },
   "src_dot_orders_dot_components_dot_OrderUnfulfilledItems_dot_693960049": {
     "context": "ordered product sku",
@@ -3957,11 +3957,11 @@
   },
   "src_dot_orders_dot_views_dot_OrderFulfill_dot_1892156526": {
     "context": "order fulfilled success message",
-    "string": "العناصرالمستوفاة"
+    "string": "العناصرالمنجزة"
   },
   "src_dot_orders_dot_views_dot_OrderFulfill_dot_3754102871": {
     "context": "window title",
-    "string": "الطلب المستوفي"
+    "string": "الطلب منجز"
   },
   "src_dot_orders_dot_views_dot_OrderList_dot_1738939038": {
     "string": "تم إنشاء مسودة الطلب بنجاح"
@@ -4097,7 +4097,7 @@
   },
   "src_dot_pages_dot_components_dot_PageDetailsPage_dot_643174786": {
     "context": "page label",
-    "string": "مرئي"
+    "string": "ظاهر"
   },
   "src_dot_pages_dot_components_dot_PageDetailsPage_dot_77815154": {
     "context": "page label",
@@ -4206,7 +4206,7 @@
   },
   "src_dot_partiallyFulfilled": {
     "context": "order status",
-    "string": "مستوفية جزئيًا"
+    "string": "منجزة جزئيًا"
   },
   "src_dot_partiallyPaid": {
     "context": "payment status",
@@ -4376,7 +4376,7 @@
   },
   "src_dot_plugins_dot_components_dot_PluginInfo_dot_3425535100": {
     "context": "section header",
-    "string": "معلومات الإضافة  و حالتها"
+    "string": "بيانات الإضافة  و حالتها"
   },
   "src_dot_plugins_dot_components_dot_PluginInfo_dot_4013064767": {
     "string": "تعيين الإضافة على أنها نشطة"
@@ -4403,17 +4403,17 @@
   },
   "src_dot_plugins_dot_components_dot_PluginsDetailsPage_dot_3425535100": {
     "context": "section header",
-    "string": "معلومات الإضافة وحالتها"
+    "string": "بيانات الإضافة وحالتها"
   },
   "src_dot_plugins_dot_components_dot_PluginsDetailsPage_dot_3799756739": {
-    "string": "هذه معلومات عامة عن متجرك. و هي تحدد ما هو عنوان URL لمتجرك وما يظهر في شريط مهام المتصفحات."
+    "string": "هذه بيانات عامة عن متجرك. و هي تحدد ما هو عنوان URL لمتجرك وما يظهر في شريط مهام المتصفحات."
   },
   "src_dot_plugins_dot_components_dot_PluginsListPage_dot_3233248823": {
     "string": "إضافات البحث ..."
   },
   "src_dot_plugins_dot_components_dot_PluginsListPage_dot_3523826683": {
     "context": "tab name",
-    "string": "كل الإضافات"
+    "string": "جميع الإضافات"
   },
   "src_dot_plugins_dot_components_dot_PluginsListPage_dot_active": {
     "context": "plugin",
@@ -4488,7 +4488,7 @@
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeListPage_dot_1776073799": {
     "context": "tab name",
-    "string": "جميع أنماط المنتجات"
+    "string": "جميع أشكال المنتجات"
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeListPage_dot_3420445375": {
     "string": "بحث عن نمط المنتج"
@@ -4514,7 +4514,7 @@
     "string": "نمط"
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeList_dot_1126553969": {
-    "string": "لم يتم العثور على أنماط المنتجات"
+    "string": "لم يتم العثور على أشكال المنتجات"
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeList_dot_1211157042": {
     "context": "product type",
@@ -4542,7 +4542,7 @@
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeList_dot_966610541": {
     "context": "product type",
-    "string": "ملموس"
+    "string": "قابل للشحن"
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeShipping_dot_1325966144": {
     "context": "product type shipping settings, section header",
@@ -4563,7 +4563,7 @@
   },
   "src_dot_productTypes_dot_views_dot_ProductTypeList_dot_4080551769": {
     "context": "dialog header",
-    "string": "حذف أنماط المنتجات"
+    "string": "حذف أشكال المنتجات"
   },
   "src_dot_productTypes_dot_views_dot_ProductTypeList_dot_4269954457": {
     "context": "dialog content",
@@ -4638,7 +4638,7 @@
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_2119710854": {
     "context": "informations about product seo, header",
-    "string": "معلومات تحسين محركات البحث"
+    "string": "بيانات تحسين محركات البحث"
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_2167661409": {
     "context": "export selected products to csv file",
@@ -4646,11 +4646,11 @@
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_2318723509": {
     "context": "export products to csv file, choice field label",
-    "string": "تصدير المعلومات لـ:"
+    "string": "تصدير البيانات لـ:"
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_2355065897": {
     "context": "export all products to csv file",
-    "string": "كل المنتجات ({number})"
+    "string": "جميع المنتجات ({number})"
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_2474350154": {
     "context": "list of warehouses",
@@ -4658,7 +4658,7 @@
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_2659464408": {
     "context": "product export to csv file, header",
-    "string": "تم تصدير المعلومات"
+    "string": "تم تصدير البيانات"
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_2693217446": {
     "context": "export products as csv or spreadsheet file",
@@ -4670,7 +4670,7 @@
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_3012202273": {
     "context": "export products to csv file, dialog header",
-    "string": "تصدير المعلومات"
+    "string": "تصدير البيانات"
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_3365843236": {
     "context": "product export to csv file, header",
@@ -4692,7 +4692,7 @@
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_3919525499": {
     "context": "informations about product stock, header",
-    "string": "معلومات الجرد"
+    "string": "بيانات الجرد"
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_4118932547": {
     "context": "export products as csv file",
@@ -4700,7 +4700,7 @@
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_472026385": {
     "context": "select product informations to be exported",
-    "string": "المعلومات المصدرة:"
+    "string": "البيانات المصدرة:"
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_524117994": {
     "context": "input helper text, search attributes",
@@ -4712,7 +4712,7 @@
   },
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_734825715": {
     "context": "informations about product prices etc, header",
-    "string": "المعلومات المالية"
+    "string": "البيانات المالية"
   },
   "src_dot_products_dot_components_dot_ProductImageNavigation_dot_3060635772": {
     "context": "section header",
@@ -4732,7 +4732,7 @@
   },
   "src_dot_products_dot_components_dot_ProductImagePage_dot_3822382625": {
     "context": "section header",
-    "string": "معلومات الصورة"
+    "string": "بيانات الصورة"
   },
   "src_dot_products_dot_components_dot_ProductImages_dot_3240888698": {
     "context": "section header",
@@ -4786,7 +4786,7 @@
   },
   "src_dot_products_dot_components_dot_ProductListPage_dot_visible": {
     "context": "product is visible",
-    "string": "مرئي"
+    "string": "ظاهر"
   },
   "src_dot_products_dot_components_dot_ProductList_dot_1134347598": {
     "context": "product price",
@@ -4880,7 +4880,7 @@
   },
   "src_dot_products_dot_components_dot_ProductTaxes_dot_2771905943": {
     "context": "checkbox",
-    "string": "تجاوز معدل الضريبة لنوع المنتج"
+    "string": " لا ضريبة على هذا المنتج"
   },
   "src_dot_products_dot_components_dot_ProductUpdatePage_dot_2341910657": {
     "context": "product label",
@@ -5717,11 +5717,11 @@
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_229184360": {
     "context": "section header",
-    "string": "معلومات المتجر"
+    "string": "بيانات المتجر"
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_2768400497": {
     "context": "section header",
-    "string": "معلومات الشركة"
+    "string": "بيانات الشركة"
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_280712237": {
     "context": "section header",
@@ -5731,7 +5731,7 @@
     "string": "سيتم استخدام عنوان البريد الإلكتروني الذي تقدمه هنا كعنوان اتصال لعملائك."
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_3799756739": {
-    "string": "هذه معلومات عامة عن متجرك. وهي تحدد عنوان URL لمتجرك وما هو"
+    "string": "هذه بيانات عامة عن متجرك. وهي تحدد عنوان URL لمتجرك وما هو"
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_866304242": {
     "string": "ستجد هنا جميع الإعدادات التي تحدد عناوين البريد الإلكتروني الخاصة بمتجرك . يمكنك تحديد م الرئيسي"
@@ -5820,7 +5820,7 @@
     "string": "كلمة المرور السابقة"
   },
   "src_dot_staff_dot_components_dot_StaffPassword_dot_1274006906": {
-    "string": "يجب عليك تغيير كلمة المرور الخاصة بك كل شهر لتجنب مشاكل الحماية ."
+    "string": "يجب عليك تغيير كلمة المرور الخاصة بك جميع شهر لتجنب مشاكل الحماية ."
   },
   "src_dot_staff_dot_components_dot_StaffPassword_dot_1434811103": {
     "context": "button",
@@ -5845,7 +5845,7 @@
   },
   "src_dot_staff_dot_components_dot_StaffProperties_dot_2650522200": {
     "context": "section header",
-    "string": "معلومات أعضاء فريق العمل"
+    "string": "بيانات أعضاء فريق العمل"
   },
   "src_dot_staff_dot_components_dot_StaffProperties_dot_2771097267": {
     "context": "button",
@@ -5870,10 +5870,10 @@
     "string": "هل أنت متأكد أنك تريد حذف البريد الإلكتروني {email} من اعضاء الفريق؟"
   },
   "src_dot_startDate": {
-    "string": "تاريخ البدء"
+    "string": "يبدأ بتاريخ"
   },
   "src_dot_startHour": {
-    "string": "ساعة البدء"
+    "string": "يبدأ بوقت"
   },
   "src_dot_status": {
     "string": "الحالة"
@@ -6208,7 +6208,7 @@
   },
   "src_dot_unconfirmed": {
     "context": "order status",
-    "string": "Unconfirmed"
+    "string": "غير مؤكد"
   },
   "src_dot_undo": {
     "context": "button",
@@ -6252,7 +6252,7 @@
   },
   "src_dot_utils_dot_errors_dot_cannotCancelFulfillment": {
     "context": "error message",
-    "string": "لا يمكن إلغاء هذا الاستيفاء"
+    "string": "لا يمكن إلغاء هذا "
   },
   "src_dot_utils_dot_errors_dot_cannotCancelOrder": {
     "context": "error message",
@@ -6365,7 +6365,7 @@
   },
   "src_dot_utils_dot_errors_dot_paymentMissing": {
     "context": "error message",
-    "string": "لا يوجد دفع مرتبط بالطلب"
+    "string": "لا توجد دفع مرتبط بالطلب"
   },
   "src_dot_utils_dot_errors_dot_permissionOutOfScope": {
     "string": "هذه الأذونات خارج نطاقك"
@@ -6425,7 +6425,7 @@
   },
   "src_dot_warehouses_dot_components_dot_WarehouseCreatePage_dot_1967111456": {
     "context": "warehouse",
-    "string": "معلومات العنوان"
+    "string": "بيانات العنوان"
   },
   "src_dot_warehouses_dot_components_dot_WarehouseCreatePage_dot_934572530": {
     "context": "header",
@@ -6441,7 +6441,7 @@
   },
   "src_dot_warehouses_dot_components_dot_WarehouseDetailsPage_dot_1967111456": {
     "context": "warehouse",
-    "string": "معلومات العنوان"
+    "string": "بيانات العنوان"
   },
   "src_dot_warehouses_dot_components_dot_WarehouseInfo_dot_2622674857": {
     "string": "اسم المستودع"
@@ -6527,7 +6527,7 @@
   },
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_2454751033": {
     "context": "event",
-    "string": "كل الأحداث"
+    "string": "جميع الأحداث"
   },
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_2862596150": {
     "context": "event",
@@ -6575,7 +6575,7 @@
   },
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_4281441551": {
     "context": "event",
-    "string": "تم إنشاء الاستيفاء"
+    "string": "تم انجاز"
   },
   "src_dot_webhooks_dot_components_dot_WebhookInfo_dot_1690209105": {
     "context": "webhook",
@@ -6587,7 +6587,7 @@
   },
   "src_dot_webhooks_dot_components_dot_WebhookInfo_dot_330298209": {
     "context": "section header",
-    "string": "معلومات الرد التلقائي"
+    "string": "بيانات الرد التلقائي"
   },
   "src_dot_webhooks_dot_components_dot_WebhookInfo_dot_3763861707": {
     "context": "webhook target url help text",
@@ -6603,7 +6603,7 @@
   },
   "src_dot_webhooks_dot_components_dot_WebhookInfo_dot_4194304040": {
     "context": "webhook specific information",
-    "string": "معلومات محددة لرد التلقائي"
+    "string": "بيانات محددة لرد التلقائي"
   },
   "src_dot_webhooks_dot_components_dot_WebhookStatus_dot_2772025990": {
     "context": "webhooks active",
