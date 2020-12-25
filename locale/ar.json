@@ -2991,7 +2991,7 @@
   },
   "src_dot_fulfilled": {
     "context": "order status",
-    "string": "منجز"
+    "string": "تم تلبيته"
   },
   "src_dot_generalInformations": {
     "string": "بيانات عامة"
@@ -3321,7 +3321,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_3494686506": {
     "context": "section header",
-    "string": "منجزة ({quantity})"
+    "string": "تم تلبيتها ({quantity})"
   },
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_4039425374": {
     "context": "cancelled fulfillment, section header",
@@ -3871,7 +3871,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderUnfulfilledItems_dot_2886647373": {
     "context": "section header",
-    "string": "غير منجزة ({quantity})"
+    "string": "لم تتم تلبيتها ({quantity})"
   },
   "src_dot_orders_dot_components_dot_OrderUnfulfilledItems_dot_693960049": {
     "context": "ordered product sku",
@@ -3957,11 +3957,11 @@
   },
   "src_dot_orders_dot_views_dot_OrderFulfill_dot_1892156526": {
     "context": "order fulfilled success message",
-    "string": "العناصرالمنجزة"
+    "string": "الأشياء التي تم تلبيتها"
   },
   "src_dot_orders_dot_views_dot_OrderFulfill_dot_3754102871": {
     "context": "window title",
-    "string": "الطلب منجز"
+    "string": "الطلب تم تلبيته"
   },
   "src_dot_orders_dot_views_dot_OrderList_dot_1738939038": {
     "string": "تم إنشاء مسودة الطلب بنجاح"
@@ -4206,7 +4206,7 @@
   },
   "src_dot_partiallyFulfilled": {
     "context": "order status",
-    "string": "منجزة جزئيًا"
+    "string": "تم تلبيته جزئيًا"
   },
   "src_dot_partiallyPaid": {
     "context": "payment status",
@@ -6216,7 +6216,7 @@
   },
   "src_dot_unfulfilled": {
     "context": "order status",
-    "string": "غير منجزة"
+    "string": "لم تتم تلبيته"
   },
   "src_dot_unpaid": {
     "context": "payment status",
