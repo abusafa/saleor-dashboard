@@ -6,10 +6,10 @@ import React from "react";
 import { IntlProvider } from "react-intl";
 
 const Wrapper: React.FC = ({ children }) => (
-  <IntlProvider defaultLocale={Locale.EN} locale={Locale.EN}>
+  <IntlProvider defaultLocale={Locale.AR} locale={Locale.AR}>
     <RawLocaleProvider
       value={{
-        locale: Locale.EN,
+        locale: Locale.AR,
         setLocale: () => undefined
       }}
     >

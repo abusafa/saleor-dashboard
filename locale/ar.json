@@ -2158,7 +2158,7 @@
   },
   "src_dot_confirm": {
     "context": "button",
-    "string": "التأكيد"
+    "string": "موافق"
   },
   "src_dot_containers_dot_BackgroundTasks_dot_exportFailedTitle": {
     "string": "فشل تصدير المنتج"

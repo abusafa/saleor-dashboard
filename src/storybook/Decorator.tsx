@@ -8,10 +8,10 @@ import ThemeProvider from "../components/Theme";
 import { TimezoneProvider } from "../components/Timezone";
 
 export const Decorator = storyFn => (
-  <IntlProvider defaultLocale={Locale.EN} locale={Locale.EN}>
+  <IntlProvider defaultLocale={Locale.AR} locale={Locale.AR}>
     <RawLocaleProvider
       value={{
-        locale: Locale.EN,
+        locale: Locale.AR,
         setLocale: () => undefined
       }}
     >
